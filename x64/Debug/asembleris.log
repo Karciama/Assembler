@@ -1,0 +1,104 @@
+﻿  asembleris.cpp
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(15,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(16,3): error C2065: 'push': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(16,8): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(16,8): error C2065: 'eax': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(17,3): error C2065: 'push': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(17,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(17,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(19,3): error C2065: 'mov': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(19,7): error C2065: 'eax': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(20,3): error C2065: 'mov': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(20,7): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(20,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(23,3): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(23,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'jl'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(24,3): error C2065: 'jl': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(24,6): error C2146: syntax error: missing ';' before identifier 'err'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(24,6): error C2065: 'err': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(25,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(25,3): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(25,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(26,3): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(26,3): error C2065: 'jg': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(26,6): error C2146: syntax error: missing ';' before identifier 'err'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(26,6): error C2065: 'err': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(28,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(28,3): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(28,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'jge'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(29,3): error C2065: 'jge': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'didink'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(29,7): error C2065: 'didink': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(31,3): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(31,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(32,3): error C2146: syntax error: missing ';' before identifier 'jle'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(32,3): error C2065: 'jle': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'skippink'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(32,7): error C2065: 'skippink': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(34,3): error C2146: syntax error: missing ';' before identifier 'didink'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(35,3): error C2065: 'sub': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(35,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(36,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(36,4): error C2065: 'inc': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(36,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(36,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(37,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(37,4): error C2065: 'jmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(37,8): error C2146: syntax error: missing ';' before identifier 'sloop'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(37,8): error C2065: 'sloop': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(39,4): error C2146: syntax error: missing ';' before identifier 'sloop'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(41,3): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(41,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(42,4): error C2146: syntax error: missing ';' before identifier 'jz'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(42,4): error C2065: 'jz': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(42,7): error C2146: syntax error: missing ';' before identifier 'exitloop'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(42,7): error C2065: 'exitloop': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(44,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(44,4): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(44,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(45,4): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(45,4): error C2065: 'je': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(45,7): error C2146: syntax error: missing ';' before identifier 'tarpas'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(45,7): error C2065: 'tarpas': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(47,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(47,4): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(47,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(48,4): error C2146: syntax error: missing ';' before identifier 'jl'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(48,4): error C2065: 'jl': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(48,7): error C2146: syntax error: missing ';' before identifier 'err'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(48,7): error C2065: 'err': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(49,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(49,4): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(49,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(50,4): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(50,4): error C2065: 'jg': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(50,7): error C2146: syntax error: missing ';' before identifier 'err'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(50,7): error C2065: 'err': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(52,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(52,4): error C2065: 'inc': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(52,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(52,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(53,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(53,4): error C2065: 'jmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(53,8): error C2146: syntax error: missing ';' before identifier 'sloop'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(53,8): error C2065: 'sloop': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(55,4): error C2146: syntax error: missing ';' before identifier 'tarpas'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(56,3): error C2065: 'inc': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(56,7): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(56,7): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(57,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(57,4): error C2065: 'cmp': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(57,8): error C2065: 'esi': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(58,4): error C2146: syntax error: missing ';' before identifier 'jl'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(58,4): error C2065: 'jl': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(58,7): error C2146: syntax error: missing ';' before identifier 'err'
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(58,7): error C2065: 'err': undeclared identifier
+C:\Users\User\source\repos\asembleris\asembleris\asembleris.cpp(59,7): fatal  error C1003: error count exceeds 100; stopping compilation
